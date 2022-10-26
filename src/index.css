@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&display=swap');
 :root {
   font-family: 'Chakra Petch', sans-serif;
   font-size: 16px;
@@ -49,7 +50,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #ff6464;
 }
 button:focus,
 button:focus-visible {
@@ -58,7 +59,7 @@ button:focus-visible {
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #0088ff;
+    color: #c52274;
     background-color: #ffffff;
   }
   a:hover {
